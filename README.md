@@ -126,3 +126,5 @@ Mitigation Strategies:
 
 4.Case studies of Kisan Call Centres and Digital Green initiatives in India.
 ```
+## FLOW CHART
+![alt text](<WhatsApp Image 2025-09-30 at 12.59.19_e24e612b.jpg>)
